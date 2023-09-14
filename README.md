@@ -22,3 +22,15 @@ Click here for the private repo: [https://classroom.github.com/a/8TQS2mML](https
 
 
 - Discuss how you managed the state in your assignment project.
+
+
+
+https://ibb.co/PrJz0PZ
+https://ibb.co/WyMmt0Q
+https://ibb.co/SngWnfR
+https://ibb.co/09rVjV3
+https://ibb.co/LxTyQH4
+https://ibb.co/0YQsdwf
+https://ibb.co/85kRX2f
+https://ibb.co/PxccdyQ
+https://ibb.co/FswRxnT
