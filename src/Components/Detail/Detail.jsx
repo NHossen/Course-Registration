@@ -1,18 +1,17 @@
 
 
-const Detail = ({detail}) => {
+const Detail = ({detail}) => {//recive from deatils
+    //console.log("detail",detail);
     const {Course_title}=detail;
 
+    //console.log(Course_title)
+
     return (
-        <div>
-           
-            
+        <div>    
              {/* dynamicaly added list item titel */}
-             <ol className="list-decimal ml-4">
-                <li>{Course_title}</li>
-             </ol>
-             <p className="border-b-2 my-2"></p>
-            <p>Total Credit Hour : 13</p>
+             
+                <li key={detail.id} className="">{Course_title}</li>
+            
         </div>
     );
 };

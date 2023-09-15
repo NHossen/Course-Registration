@@ -13,7 +13,7 @@ const Cards = ({handelPostDetails}) => {
        .then(data=>setDatas(data))
     },[])
    
-    console.log(datas)
+    //console.log(datas)
    
     return (
              <div className="grid lg:grid-cols-3 grid-cols-1 gap-6 lg:p-0 p-5">
